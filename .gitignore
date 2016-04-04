@@ -1,3 +1,10 @@
+# Ignore Eclipse config
+target/
+.settings/
+.classpath
+.project
+
+# Ignore Mac files
 .DS_Store
 .log
 
