@@ -3,9 +3,7 @@ A demo project for order processing system
 
 ## Usage
 
-To start the order processing system:
-1. Install docker tool box 1.10.x
-2. Clone the project and run:
+To start the order processing system: Install docker tool box 1.10.x, clone the project and run:
 
 	gradle build
 	docker-compose up
