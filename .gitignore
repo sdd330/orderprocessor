@@ -18,4 +18,17 @@ gradle-app.setting
 !gradle-wrapper.jar
 
 # Cache of project
-.gradletasknamecache
+.gradletasknamecach
+
+# Front End Dependency Generated
+src/main/web/.sass-cache/
+src/main/web/bower_components/
+src/main/web/node/
+src/main/web/node_modules/
+src/main/web/npm-debug.log
+src/main/web/.tscache/
+src/main/web/scss/.tmp/
+src/main/web/js/lib/
+src/main/web/typings/
+src/main/webapp/resources/
+src/main/resources/static/
